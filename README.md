@@ -74,6 +74,7 @@ Based on the analysis of the above key factors including barometric pressure (BP
 direction (WD), wind gusts (WSgust), wind speed standard deviation (WSstdev), relative 
 humidity (RH), and ambient temperature (Tamb), it can be concluded that Sierra Leone is the 
 most suitable choice for solar farming.
+ 
 
 
 
